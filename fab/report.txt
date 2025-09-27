@@ -1,0 +1,11 @@
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-F_Cu.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-B_Cu.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-F_Paste.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-B_Paste.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-F_Silkscreen.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-B_Silkscreen.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-F_Mask.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-B_Mask.pdf'.
+Plotted to '/home/ulquiorra/Documents/KiCAD/SmartHomeSecuritySystem/SecurityDoorLockSystem/fab/SecurityDoorLockSystem-Edge_Cuts.pdf'.
+Info: Done.
+Info: Done.
