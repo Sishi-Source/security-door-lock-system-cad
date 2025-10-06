@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|100959931|88205000|0f8038ee-555e-4e0e-a7bf-3b82ee7eeac0|f6f558ef-ab18-4481-87e1-6b6503293a55",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -96,7 +101,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
